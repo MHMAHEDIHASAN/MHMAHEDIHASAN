@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mahedi Hasan</h1>
 <h3 align="center">A passionate frontend developer and a programmer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="500"src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmahedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmahedihasan" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial intelligence (AI)**
@@ -15,6 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdmahedihasanmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmahedihasanmh" height="30" width="40" /></a>
+<a href="https://fb.com/md.mahedihasan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mahedihasan23" height="30" width="40" /></a>
+<a href="https://instagram.com/md_hasan_0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_hasan_0410" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bubt_codingmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bubt_codingmaster" height="30" width="40" /></a>
 </p>
 
