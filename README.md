@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! This is Mahedi 👋</h1>
+<h1 align="center">Hey there! I am Mahedi Hasan 👋</h1>
 <h3 align="center">I am a Computer Science & Engineering student with a robust background in Programming, Algorithms, and Data Structures</h3>
 <img align="right" alt="Coding" width="450"src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmahedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmahedihasan" /> </p>
