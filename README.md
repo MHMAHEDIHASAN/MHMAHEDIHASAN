@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=3199F0&background=ECEEFF00&width=450&lines=Hey+there!+This+is+Mahedi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+embracing+the+journey+ahead+of+me%F0%9F%9A%B6;There's+plenty+to+learn+%F0%9F%92%8E)](https://git.io/typing-svg)
 <h3 align="center"> </h3>
-<img align="center" alt="Coding" width="550"src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
+<img align="center" alt="Coding" width="600"src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
 
 
