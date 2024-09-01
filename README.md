@@ -13,12 +13,10 @@
 
 
 
-<img align="left" height="auto" width={200} src="https://github-readme-stats.vercel.app/api?username=MHMAHEDIHASAN&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MHMAHEDIHASAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MHMAHEDIHASAN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHMAHEDIHASAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=MHMAHEDIHASAN&icon=9&color=1)](https://visitcount.itsvg.in)
 
-
-<img align="left" height="auto" width={200} src="https://github-readme-streak-stats.herokuapp.com/?user=MHMAHEDIHASAN&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={200} src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHMAHEDIHASAN&theme=dark&hide_border=false" alt="profile-radme-generator" />
